@@ -2,6 +2,7 @@
     "name": "The New App Launcher",
     "description": "Launches apps, the good way!",
     "version": "0.0.0.1",
+	"manifest_version": 2,
     "permissions" : ["management"],
     "chrome_url_overrides" : {
         "newtab": "newtab.html"
